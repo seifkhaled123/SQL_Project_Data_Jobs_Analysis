@@ -33,7 +33,7 @@ I created this repository to:
 The queries in this repository are based on a sample **Data Jobs Database**.  
 The schema contains the following main tables:
 
-![SQL_project_schema](Assets\SQL_Project_Data_Jobs_Analysis_schema.png)
+![SQL_project_schema](Assets/SQL_Project_Data_Jobs_Analysis_schema.png)
 ---
 
 ## 📊 The Analysis
